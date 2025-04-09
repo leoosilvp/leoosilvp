@@ -84,5 +84,16 @@ Olá! Me chamo Leonardo, sou Founder & CEO do grupo ZYNE, onde lidero iniciativa
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Blender" 
+    title="Blender"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" 
+/>
+
+
+
 
 
