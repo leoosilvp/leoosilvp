@@ -9,6 +9,8 @@ jobs:
   update-readme:
     name: Atualiza README.md com atividade recente
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Necessário para escrever no README.md
     steps:
       - uses: actions/checkout@v3
       - uses: Readme-Workflows/recent-activity@v2
