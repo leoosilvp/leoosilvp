@@ -49,6 +49,11 @@ Olá! Me chamo Leonardo, sou Founder & CEO do grupo ZYNE, onde lidero iniciativa
 
 
 
+## 🕒 Atividade Recente
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ---
 
 
