@@ -21,10 +21,6 @@
 
 Olá! Me chamo Leonardo, sou Founder & CEO do grupo ZYNE, onde lidero iniciativas que unem tecnologia, criatividade e impacto social. Atualmente, estou cursando Engenharia De Software na [FIAP](https://www.fiap.com.br/). Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu perfil no Linkedin "[Leonardo Silva](https://www.linkedin.com/in/leeosilvp/)".
 
-- 🎓 Estudante de Engenharia de Software na [FIAP](https://www.fiap.com.br)
-- 🏢 CEO do grupo ZYNE
-- 🌍 Baseado em São Paulo, Brasil
-
 
 
 <div align="center">
