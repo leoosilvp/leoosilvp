@@ -53,17 +53,9 @@ Olá! Me chamo Leonardo, sou Founder & CEO do grupo ZYNE, onde lidero iniciativa
 
 
 
-## 🎯 Áreas de Interesse
-
-- Desenvolvimento FullStack
-- Design de Interfaces (UI/UX)
-- Inteligência Artificial
-- Empreendedorismo e Inovação
-- Projetos com Impacto Social
-
-
-
 ---
+
+
 
 <p align="center">
   ❇ Buscando constantemente inovar, liderar e transformar ideias em soluções reais.
