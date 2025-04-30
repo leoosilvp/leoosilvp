@@ -27,16 +27,6 @@ Olá! Me chamo Leonardo, sou Founder & CEO do grupo ZYNE, onde lidero iniciativa
 
 
 
-## 🎯 Áreas de Interesse
-
-- Desenvolvimento FullStack
-- Design de Interfaces (UI/UX)
-- Inteligência Artificial
-- Empreendedorismo e Inovação
-- Projetos com Impacto Social
-
-
-
 <div align="center">
 
 ## 🌐 Tecnologias e Ferramentas
@@ -60,6 +50,17 @@ Olá! Me chamo Leonardo, sou Founder & CEO do grupo ZYNE, onde lidero iniciativa
   <img src="https://github-readme-stats.vercel.app/api?username=leoosilvp&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoosilvp&layout=compact&theme=radical" alt="Linguagens Mais Usadas">
 </p>
+
+
+
+## 🎯 Áreas de Interesse
+
+- Desenvolvimento FullStack
+- Design de Interfaces (UI/UX)
+- Inteligência Artificial
+- Empreendedorismo e Inovação
+- Projetos com Impacto Social
+
 
 
 ---
