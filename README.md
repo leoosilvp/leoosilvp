@@ -1,6 +1,7 @@
 <h1 align="center">Leonardo Silva</h1>
 <p align="center">
-  <strong>Founder & CEO at ZYNE</strong> • Software Engineer • 3D Designer • Tech Innovator
+  
+  <strong>Founder & CEO at [ZYNE](https://www.linkedin.com/company/groupzyne/)</strong> • Software Engineer • 3D Designer • Tech Innovator
 </p>
 
 <p align="center">
