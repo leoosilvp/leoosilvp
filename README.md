@@ -1,7 +1,7 @@
 <h1 align="center">Leonardo Silva</h1>
 <p align="center">
   
-  <strong>Founder & CEO at [ZYNE](https://www.linkedin.com/company/groupzyne/)</strong> • Software Engineer • 3D Designer • Tech Innovator
+  <strong>Founder & CEO at ZYNE</strong> • Software Engineer • 3D Designer • Tech Innovator
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ## ♦ Sobre
 
-Olá! Me chamo Leonardo, sou Founder & CEO do grupo ZYNE, onde lidero iniciativas que unem tecnologia, criatividade e impacto social. Atualmente, estou cursando Engenharia De Software na [FIAP](https://www.fiap.com.br/). Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu perfil no Linkedin "[Leonardo Silva](https://www.linkedin.com/in/leeosilvp/)".
+Olá! Me chamo Leonardo, sou Founder & CEO do [grupo ZYNE](https://www.linkedin.com/company/groupzyne/), onde lidero iniciativas que unem tecnologia, criatividade e impacto social. Atualmente, estou cursando Engenharia De Software na [FIAP](https://www.fiap.com.br/). Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu perfil no Linkedin "[Leonardo Silva](https://www.linkedin.com/in/leeosilvp/)".
 
 
 
