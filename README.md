@@ -1,7 +1,7 @@
 <h1 align="center">Leonardo Silva</h1>
 <p align="center">
   
-  <strong>Founder ZYNE</strong> • Software Engineer • Tech Leadership • Back-end Developer • Python • JavaScript • Agile Methodologies
+  <strong>Graham AI</strong> • Software Engineer • Tech Leadership • Back-end Developer • Python • JavaScript • React • Node.js • Agile Methodologies
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## ♦ Sobre
 
-Olá! Me chamo Leonardo, sou Fundador do [grupo ZYNE](https://www.linkedin.com/company/groupzyne/), onde idealizei e conduzi projetos que combinam tecnologia, inovação e propósito social. Atualmente, estou cursando Engenharia De Software na [FIAP](https://www.fiap.com.br/). Onde estou construindo uma trajetória voltada à criação de soluções digitais relevantes e escaláveis. Acredito no poder da tecnologia como ferramenta de transformação e compartilho essa visão através de reflexões no meu Linkedin"[Leonardo Silva](https://www.linkedin.com/in/leeosilvp/)".
+Olá! Me chamo Leonardo, sou estudante de Engenharia de Software na [FIAP](https://www.fiap.com.br/), onde estou construindo uma trajetória voltada à criação de soluções digitais relevantes e escaláveis. Atualmente, trabalho no projeto [GrahamAI](https://github.com/leoosilvp/Graham-AI), uma IA especializada em cálculos matemáticos de grande porte. Acredito no poder da tecnologia como ferramenta de transformação e compartilho essa visão através de reflexões no meu LinkedIn "[Leonardo Silva](https://www.linkedin.com/in/leeosilvp/)".
 
 <div align="center">
 
