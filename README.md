@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Instagram-000?style=badge&logo=instagram&logoColor=E4405F" alt="Instagram">
   </a>
   <a href="https://www.linkedin.com/in/leeosilvp">
-    <img src="https://img.shields.io/badge/Linkedin-0077B5?style=badge&logo=linkedin&logoColor=fff" alt="Linkedin">
+    <img src="https://img.shields.io/badge/Linkedin-000?style=badge&logo=linkedin&logoColor=fff" alt="Linkedin">
   </a>
   <a href="leo965679@gmail.com">
     <img src="https://img.shields.io/badge/Email-000?style=badge&logo=gmail&logoColor=D14836" alt="Email">
