@@ -18,7 +18,7 @@
 
 ## ♦ Sobre
 
-Olá! Me chamo Leonardo, sou estudante de Engenharia de Software na [FIAP](https://www.fiap.com.br/), onde estou construindo uma trajetória voltada à criação de soluções digitais relevantes e escaláveis. Hoje, estou à frente do [GrahamAI](https://github.com/leoosilvp/Graham-AI), um projeto que une IA generativa, interação em tempo real e design funcional para redefinir a forma como humanos e máquinas se comunicam. Acredito no poder da tecnologia como ferramenta de transformação e compartilho essa visão através do meu LinkedIn "[Leonardo Silva](https://www.linkedin.com/in/leeosilvp/)".
+Olá! Me chamo Leonardo, sou estudante de Engenharia de Software na [FIAP](https://www.fiap.com.br/), onde estou construindo uma trajetória voltada à criação de soluções digitais relevantes e escaláveis. Hoje, estou à frente do [GrahamAI](https://github.com/leoosilvp/Graham-AI), um projeto que une IA generativa, interação em tempo real e design funcional para redefinir a forma como humanos e máquinas se comunicam. Acredito no poder da tecnologia como ferramenta de transformação e compartilho essa visão através do meu LinkedIn "[Leonardo Silva](https://www.linkedin.com/in/leeosilvp/)"
 
 <div align="center">
 
