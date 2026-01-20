@@ -1,7 +1,6 @@
 <h1 align="center">Leonardo Silva</h1>
 <p align="center">
-  
-  <strong>Graham AI</strong> • Software Engineer • Tech Leadership • Back-end Developer • Python • JavaScript • React • Node.js • Agile Methodologies
+  Software Engineer • Tech Leadership • Full-Stack Developer • Python • JavaScript • React • Node.js • Agile Methodologies
 </p>
 
 <p align="center">
@@ -39,12 +38,6 @@ Olá! Me chamo Leonardo, sou estudante de Engenharia de Software na [FIAP](https
 ## ♦ Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=leoosilvp&show_icons=true&bg_color=00000040&text_color=ffffffc5&border_color=ffffff40&title_color=fffffff5&icon_color=ffffff80&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leoosilvp&layout=compact&text_color=ffffffc5&border_color=ffffff40&title_color=fffffff5&bg_color=00000040&count_private=true=true&size_weight=1&count_weight=0.5" alt="Linguagens Mais Usadas">
-</p>
-
----
-
-<p align="center">
-  ❇ Buscando constantemente inovar, liderar e transformar ideias em soluções reais.
+  <img width='450px' src="https://github-readme-stats-eight-theta.vercel.app/api?username=leoosilvp&show_icons=true&bg_color=00000040&text_color=ffffffc5&border_color=ffffff40&title_color=fffffff5&icon_color=ffffff80&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
+  <img width='350px' src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leoosilvp&layout=compact&text_color=ffffffc5&border_color=ffffff40&title_color=fffffff5&bg_color=00000040&count_private=true=true&size_weight=1&count_weight=0.5" alt="Linguagens Mais Usadas">
 </p>
