@@ -1,27 +1,9 @@
-<h1 align="center">Leonardo Silva</h1>
+<h1 align="center">Hi, I'm Leonardo 👋</h1>
 <p align="center">
-  Software Engineer • Tech Leadership • Full-Stack Developer • Python • JavaScript • React • Node.js • Agile Methodologies
+  Software Engineer • LLM • Full-Stack Developer • Python • JavaScript • React • Node.js • Agile Methodologies
 </p>
-
-<p align="center">
-  <a href="https://www.instagram.com/leeosilvp">
-    <img src="https://img.shields.io/badge/Instagram-000?style=badge&logo=instagram&logoColor=E4405F" alt="Instagram">
-  </a>
-  <a href="https://www.linkedin.com/in/leeosilvp">
-    <img src="https://img.shields.io/badge/Linkedin-000?style=badge&logo=linkedin&logoColor=fff" alt="Linkedin">
-  </a>
-  <a href="leo965679@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000?style=badge&logo=gmail&logoColor=D14836" alt="Email">
-  </a>
-</p>
-
-## ♦ Sobre
-
-Olá! Me chamo Leonardo, sou estudante de Engenharia de Software na [FIAP](https://www.fiap.com.br/), onde estou construindo uma trajetória voltada à criação de soluções digitais relevantes e escaláveis. Hoje, estou à frente do [GrahamAI](https://github.com/leoosilvp/Graham-AI), um projeto que une IA generativa, interação em tempo real e design funcional para redefinir a forma como humanos e máquinas se comunicam. Acredito no poder da tecnologia como ferramenta de transformação e compartilho essa visão através do meu LinkedIn "[Leonardo Silva](https://www.linkedin.com/in/leeosilvp/)"
 
 <div align="center">
-
-## Tecnologias e Ferramentas
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=badge&logo=css&logoColor=1572B6)
@@ -35,9 +17,45 @@ Olá! Me chamo Leonardo, sou estudante de Engenharia de Software na [FIAP](https
 
 </div>
 
-## ♦ Estatísticas do GitHub
+> Furthering my studies in AI architectures, neural networks, and advanced machine learning techniques applied to scalable systems.
+
+📖 **[Booksyra]()** (closed source) - library and digital education
+
+
+## Current Projects
+
+- 🎮 **[Snakr](https://github.com/leoosilvp/Snakr)** - Free game distribution platform
+- 🤖 **[GrahamAI](https://github.com/leoosilvp/Graham-AI)** - Generative AI and real-time interaction with a focus on mathematics.
+- 📄 **[CvHub](https://github.com/leoosilvp/CVHub)** - Create your resume based on your GitHub profile.
+
+
+## What I'm Doing
+
+- **Studying AI & Software Architecture** - Deep diving into neural networks, applied machine learning and scalable systems
+
+- **Shipping Fast** - Turning ideas into functional products in weeks, not quarters
+
+- **Designing for Impact** - Creating digital solutions that are practical, scalable and built for real users
+
+- **Thinking Long-Term** - Engineering technology that compounds in value over time
+
+
+## GitHub Stats
 
 <p align="left">
   <img width='450px' src="https://github-readme-stats-eight-theta.vercel.app/api?username=leoosilvp&show_icons=true&bg_color=00000040&text_color=ffffffc5&border_color=ffffff40&title_color=fffffff5&icon_color=ffffff80&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
   <img width='350px' src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leoosilvp&layout=compact&text_color=ffffffc5&border_color=ffffff40&title_color=fffffff5&bg_color=00000040&count_private=true=true&size_weight=1&count_weight=0.5" alt="Linguagens Mais Usadas">
 </p>
+
+
+## Philosophy
+
+> If something can be understood, it can be built.
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/-@leeosilvp-000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/leeosilvp/)
+[![LinkedIn](https://img.shields.io/badge/-leoosilvp-000?style=flat-square&logo=linked-in&logoColor=white)](https://www.linkedin.com/in/leoosilvp)
+[![Email](https://img.shields.io/badge/-Leonardo_Silva-000?style=flat-square&logo=gmail&logoColor=white)](https://www.linkedin.com/in/steipete)
+[![GitHub](https://img.shields.io/badge/-Follow-000?style=flat-square&logo=github&logoColor=white)](https://github.com/steipete)
+</div>
