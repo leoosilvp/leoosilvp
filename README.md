@@ -19,7 +19,7 @@
 
 > Furthering my studies in AI architectures, neural networks, and advanced machine learning techniques applied to scalable systems.
 
-📖 **[Booksyra]()** (closed source) - library and digital education
+🖥️ **[Context]()** (closed source) - Corporate interaction intelligence
 
 
 ## Current Projects
