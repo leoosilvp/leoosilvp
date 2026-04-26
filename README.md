@@ -19,7 +19,7 @@
 
 > Furthering my studies in AI architectures, neural networks, and advanced machine learning techniques applied to scalable systems.
 
-🖥️ **[Context]()** (closed source) - Corporate interaction intelligence
+🖥️ **[Context](https://totvs-context.vercel.app/)** (closed source) - Corporate interaction intelligence
 
 
 ## Current Projects
