@@ -50,15 +50,15 @@
 ## Certificates
 
 <div align='center'>
-  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=925781&theme=light" alt="DevOps">
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=925781&theme=dark" alt="DevOps">
   &nbsp;&nbsp;
-  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=284705&theme=light" alt="Python">
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=284705&theme=dark" alt="Python">
   &nbsp;&nbsp;
-  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=918357&theme=light" alt="Front-End">
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=918357&theme=dark" alt="Front-End">
   &nbsp;&nbsp;
-  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=458721&theme=light" alt="User Experience">
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=458721&theme=dark" alt="User Experience">
   &nbsp;&nbsp;
-  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=470315&theme=light" alt="Design Thinking - Process">
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=470315&theme=dark" alt="Design Thinking - Process">
   </div>
 
 
