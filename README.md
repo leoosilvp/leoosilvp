@@ -47,6 +47,20 @@
   <img width='350px' src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leoosilvp&layout=compact&text_color=ffffffc5&border_color=ffffff40&title_color=fffffff5&bg_color=00000040&count_private=true=true&size_weight=0&count_weight=1" alt="Linguagens Mais Usadas">
 </p>
 
+## Certificates
+
+<div align='center'>
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=925781&theme=light" alt="DevOps">
+  &nbsp;&nbsp;
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=284705&theme=light" alt="Python">
+  &nbsp;&nbsp;
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=918357&theme=light" alt="Front-End">
+  &nbsp;&nbsp;
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=458721&theme=light" alt="User Experience">
+  &nbsp;&nbsp;
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=470315&theme=light" alt="Design Thinking - Process">
+  </div>
+
 
 ## Philosophy
 
