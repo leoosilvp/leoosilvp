@@ -71,6 +71,6 @@
 
 [![Instagram](https://img.shields.io/badge/-@leeosilvp-000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/leeosilvp/)
 [![LinkedIn](https://img.shields.io/badge/-leoosilvp-000?style=flat-square&logo=linked-in&logoColor=white)](https://www.linkedin.com/in/leoosilvp)
-[![Email](https://img.shields.io/badge/-Leonardo_Silva-000?style=flat-square&logo=gmail&logoColor=white)](https://www.linkedin.com/in/steipete)
-[![GitHub](https://img.shields.io/badge/-Follow-000?style=flat-square&logo=github&logoColor=white)](https://github.com/steipete)
+[![Email](https://img.shields.io/badge/-Leonardo_Silva-000?style=flat-square&logo=gmail&logoColor=white)](https://www.linkedin.com/in/leoosilvp)
+[![GitHub](https://img.shields.io/badge/-Follow-000?style=flat-square&logo=github&logoColor=white)](https://github.com/leoosilvp)
 </div>
