@@ -24,7 +24,8 @@
 
 ## Current Projects
 
-- 🎮 **[Snakr](https://github.com/leoosilvp/Snakr)** - Free game distribution platform
+- 🏅 **[FIAPachievements](https://github.com/leoosilvp/FIAP-achievements)** - Centralized library of academic achievements at FIAP.
+- 🎮 **[Snakr](https://github.com/leoosilvp/Snakr)** - Free game distribution platform.
 - 🤖 **[GrahamAI](https://github.com/leoosilvp/Graham-AI)** - Generative AI and real-time interaction with a focus on mathematics.
 - 📄 **[CvHub](https://github.com/leoosilvp/CVHub)** - Create your resume based on your GitHub profile.
 
@@ -43,22 +44,22 @@
 ## GitHub Stats
 
 <p align="left">
-  <img width='450px' src="https://github-readme-stats-eight-theta.vercel.app/api?username=leoosilvp&show_icons=true&bg_color=00000040&text_color=ffffffc5&border_color=ffffff40&title_color=fffffff5&icon_color=ffffff80&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
-  <img width='350px' src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leoosilvp&layout=compact&text_color=ffffffc5&border_color=ffffff40&title_color=fffffff5&bg_color=00000040&count_private=true=true&size_weight=0&count_weight=1" alt="Linguagens Mais Usadas">
+  <img width='450px' src="https://github-readme-stats-eight-theta.vercel.app/api?username=leoosilvp&show_icons=true&bg_color=000&text_color=ffffffc5&border_color=ffffff40&title_color=fffffff5&icon_color=ffffff80&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
+  <img width='350px' src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leoosilvp&layout=compact&text_color=ffffffc5&border_color=ffffff40&title_color=fffffff5&bg_color=000&count_private=true=true&size_weight=0&count_weight=1" alt="Linguagens Mais Usadas">
 </p>
 
 ## Certificates
 
 <div align='center'>
-  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=925781&theme=dark" alt="DevOps">
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=925781&theme=black" alt="DevOps">
   &nbsp;&nbsp;
-  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=284705&theme=dark" alt="Python">
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=284705&theme=black" alt="Python">
   &nbsp;&nbsp;
-  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=918357&theme=dark" alt="Front-End">
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=918357&theme=black" alt="Front-End">
   &nbsp;&nbsp;
-  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=458721&theme=dark" alt="User Experience">
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=458721&theme=black" alt="User Experience">
   &nbsp;&nbsp;
-  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=470315&theme=dark" alt="Design Thinking - Process">
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=470315&theme=black" alt="Design Thinking - Process">
   </div>
 
 
