@@ -26,7 +26,7 @@
 
 - 🏅 **[FIAPachievements](https://github.com/leoosilvp/FIAP-achievements)** - Centralized library of academic achievements at FIAP.
 - 🎮 **[Snakr](https://github.com/leoosilvp/Snakr)** - Free game distribution platform.
-- 🤖 **[GrahamAI](https://github.com/leoosilvp/Graham-AI)** - Generative AI and real-time interaction with a focus on mathematics.
+- 🤖 **[GrahamAI](https://graham.vu)** - Generative AI and real-time interaction with a focus on mathematics.
 - 📄 **[CvHub](https://github.com/leoosilvp/CVHub)** - Create your resume based on your GitHub profile.
 
 
@@ -51,7 +51,7 @@
 ## Certificates
 
 <div align='center'>
-  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=925781&theme=black" alt="DevOps">
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?theme=black&badge=gs&year=2026&topic=space-connect" alt="Global Solution - 2026">
   &nbsp;&nbsp;
   <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=284705&theme=black" alt="Python">
   &nbsp;&nbsp;
@@ -59,7 +59,7 @@
   &nbsp;&nbsp;
   <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=458721&theme=black" alt="User Experience">
   &nbsp;&nbsp;
-  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=470315&theme=black" alt="Design Thinking - Process">
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=925781&theme=black" alt="DevOps">
   </div>
 
 
