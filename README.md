@@ -25,9 +25,9 @@
 ## Current Projects
 
 - 🏅 **[FIAPachievements](https://github.com/leoosilvp/FIAP-achievements)** - Centralized library of academic achievements at FIAP.
-- 🎮 **[Snakr](https://github.com/leoosilvp/Snakr)** - Free game distribution platform.
+- 🎮 **[Snakr](https://snakr.one)** - Free game distribution platform.
 - 🤖 **[GrahamAI](https://graham.vu)** - Generative AI and real-time interaction with a focus on mathematics.
-- 📄 **[CvHub](https://github.com/leoosilvp/CVHub)** - Create your resume based on your GitHub profile.
+- 📄 **[GitCV](https://gitcv-app.vercel.app/)** - Create your resume based on your GitHub profile.
 
 
 ## What I'm Doing
@@ -55,9 +55,9 @@
   &nbsp;&nbsp;
   <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=284705&theme=black" alt="Python">
   &nbsp;&nbsp;
-  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=918357&theme=black" alt="Front-End">
+  <img width='120px' src="  https://fiap-achievements.vercel.app/api/badge?theme=black&badge=758230" alt="Artficial and Conputational Intelligence">
   &nbsp;&nbsp;
-  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=458721&theme=black" alt="User Experience">
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=918357&theme=black" alt="Front-End">
   &nbsp;&nbsp;
   <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=925781&theme=black" alt="DevOps">
   </div>
@@ -69,8 +69,13 @@
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/-@leeosilvp-000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/leeosilvp/)
-[![LinkedIn](https://img.shields.io/badge/-leoosilvp-000?style=flat-square&logo=linked-in&logoColor=white)](https://www.linkedin.com/in/leoosilvp)
-[![Email](https://img.shields.io/badge/-Leonardo_Silva-000?style=flat-square&logo=gmail&logoColor=white)](https://www.linkedin.com/in/leoosilvp)
+[![Instagram](https://img.shields.io/badge/-@leeoosp-000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/leeoosp/)
+[![LinkedIn](https://img.shields.io/badge/-leoosilvp-000?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K)](https://www.linkedin.com/in/leoosilvp)
+[![Email](https://img.shields.io/badge/-Leonardo_Silva-000?style=flat-square&logo=gmail&logoColor=white)](mailto:leo965679@gmail.com)
 [![GitHub](https://img.shields.io/badge/-Follow-000?style=flat-square&logo=github&logoColor=white)](https://github.com/leoosilvp)
+</div>
+
+<div align="center">
+
+<img width='90px' src='https://upload.wikimedia.org/wikipedia/commons/c/cc/Harvard_University_coat_of_arms.svg'/>
 </div>
