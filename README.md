@@ -55,7 +55,7 @@
   &nbsp;&nbsp;
   <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=284705&theme=black" alt="Python">
   &nbsp;&nbsp;
-  <img width='120px' src="  https://fiap-achievements.vercel.app/api/badge?theme=black&badge=758230" alt="Artficial and Conputational Intelligence">
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?theme=black&badge=758230" alt="Artficial and Conputational Intelligence">
   &nbsp;&nbsp;
   <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=918357&theme=black" alt="Front-End">
   &nbsp;&nbsp;
