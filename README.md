@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Leonardo 👋</h1>
 <p align="center">
-  Software Engineer • LLM • Full-Stack Developer • Python • JavaScript • React • Node.js • Agile Methodologies
+  AI & ML Engineer • Machine Learning, Generative AI & LLMs • Python, PyTorch & TensorFlow • Software Engineering
 </p>
 
 <div align="center">
