@@ -5,29 +5,30 @@
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-000?style=badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=badge&logo=css&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=badge&logo=javascript&logoColor=F7DF1E)
 ![REACT](https://img.shields.io/badge/React-000?style=badge&logo=react&logoColor=777BB4)
 ![NODE.JS](https://img.shields.io/badge/Node.JS-000?style=badge&logo=node.js&logoColor=7ed957)
 ![Python](https://img.shields.io/badge/Python-000?style=badge&logo=python&logoColor=F7DF1E)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=badge&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/PyTorch-000?style=badge&logo=pytorch&logoColor=F5792A)
 ![C++](https://img.shields.io/badge/C++-000?style=badge&logo=cplusplus&logoColor=3776AB)
 ![Git](https://img.shields.io/badge/Git-000?style=badge&logo=git&logoColor=F05032)
-![Blender](https://img.shields.io/badge/Blender-000?style=badge&logo=blender&logoColor=F5792A)
+![Docker](https://img.shields.io/badge/Docker-000?style=badge&logo=docker&logoColor=2496ED)
 
 </div>
 
 > Furthering my studies in AI architectures, neural networks, and advanced machine learning techniques applied to scalable systems.
 
-🖥️ **[Context](https://totvs-context.vercel.app/)** (closed source) - Corporate interaction intelligence
+⌘ **[Graham Code]()** - An agentic AI orchestration CLI for intelligent, autonomous coding workflows.
 
 
 ## Current Projects
 
-- 🏅 **[FIAPachievements](https://github.com/leoosilvp/FIAP-achievements)** - Centralized library of academic achievements at FIAP.
+- 🏅 **[FIAPachievements](https://fiap-achievements.vercel.app/)** - Centralized library of academic achievements at FIAP.
 - 🎮 **[Snakr](https://snakr.one)** - Free game distribution platform.
-- 🤖 **[GrahamAI](https://graham.vu)** - Generative AI and real-time interaction with a focus on mathematics.
+- 🤖 **[GrahamAI](https://graham.vu)** - Intelligent AI for reasoning, problem-solving, and real-time interaction.
 - 📄 **[GitCV](https://gitcv-app.vercel.app/)** - Create your resume based on your GitHub profile.
+- 🎨 **[ASCII art](https://github.com/leoosilvp/ASCII-art)** - Explore ASCII and Unicode characters for terminal art.
 
 
 ## What I'm Doing
@@ -51,15 +52,15 @@
 ## Certificates
 
 <div align='center'>
-  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?theme=black&badge=gs&year=2026&topic=space-connect" alt="Global Solution - 2026">
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?theme=black&badge=gs&topic=space-connect&year=2026&edge=645731&text=dbbb5c&accent=897438&muted=9c8443&line=4e4630" alt="Global Solution - 2026">
   &nbsp;&nbsp;
-  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=284705&theme=black" alt="Python">
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=284705&theme=black&bg=000" alt="Python">
   &nbsp;&nbsp;
-  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?theme=black&badge=758230" alt="Artficial and Conputational Intelligence">
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?theme=black&badge=758230&bg=000" alt="Artficial and Conputational Intelligence">
   &nbsp;&nbsp;
-  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=918357&theme=black" alt="Front-End">
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=918357&theme=black&bg=000" alt="Front-End">
   &nbsp;&nbsp;
-  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=925781&theme=black" alt="DevOps">
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=925781&theme=black&bg=000" alt="DevOps">
   </div>
 
 
